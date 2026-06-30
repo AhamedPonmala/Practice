@@ -3,3 +3,4 @@ def boot_test():
     print("NAND Flash Detected... OK")
 boot_test()
 boot_test()
+boot_test()
